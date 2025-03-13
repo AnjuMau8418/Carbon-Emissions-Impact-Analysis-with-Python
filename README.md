@@ -77,7 +77,30 @@ Future work could enhance the analysis by incorporating additional environmental
   <h2> Time-series of Temperature Change and CO₂ Concentrations </h2>
   <img src="visualizations/Time-series of Temperature Change and CO₂ Concentrations.png" width="600">
 </p>
-
 ---
+<p align="center">
+  <h2> Correlation Heatmap </h2>
+  <img src="visualizations/Correlation Heatmap.png" width="600">
+</p>
+---
+<p align="center">
+  <h2> Temperature Change vs CO₂ Concentration </h2>
+  <img src="visualizations/Temperature Change vs CO₂ Concentration.png" width="600">
+</p>
+---
+<p align="center">
+  <h2> Trends in Temperature Change and CO₂ Concentrations </h2>
+  <img src="visualizations/Trends in Temperature Change and CO₂ Concentrations.png" width="600">
+</p>
+---
+<p align="center">
+  <h2> Seasonal Variations in CO₂ Concentrations </h2>
+  <img src="visualizations/Seasonal Variations in CO₂ Concentrations.png" width="600">
+</p>
+---
+<p align="center">
+  <h2> Clustering of Years Based on Climate Patterns </h2>
+  <img src="visualizations/Clustering of Years Based on Climate Patterns.png" width="600">
+</p>
 
 ## 📜
