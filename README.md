@@ -75,7 +75,7 @@ Future work could enhance the analysis by incorporating additional environmental
 ## 📊 Sample Visualization
 <p align="center">
   <h2> Time-series of Temperature Change and CO₂ Concentrations </h2>
-  <img src="C:\Users\acer\Downloads\Time-series plot for temperature and CO2 levels (1).png" width="600">
+  <img src="visualizations/Time-series of Temperature Change and CO₂ Concentrations.png" width="600">
 </p>
 
 ---
