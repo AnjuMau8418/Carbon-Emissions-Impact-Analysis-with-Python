@@ -1,7 +1,7 @@
 # Carbon-Emissions-Impact-Analysis-with-Python                                                                                                                                              
-1. Introduction
+## Introduction
 This project analyses the impact of carbon emissions on global temperatures, exploring historical trends, detecting anomalies, and simulating future scenarios based on CO₂ concentrations and temperature anomalies. By leveraging Python for data processing and visualization, we aim to gain insights into climate change patterns.                                                
-2. Objective
+## Objective
 The primary objectives of this project are:
 To analyze the relationship between CO₂ emissions and global temperature anomalies.
 To identify historical trends and anomalies in temperature changes.
