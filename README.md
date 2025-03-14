@@ -1,7 +1,7 @@
 # 🌍 Carbon Emissions Impact Analysis with Python
 
 ## 📖 Introduction
-This project analyzes the impact of carbon emissions on global temperatures by exploring historical trends, detecting anomalies, and simulating future scenarios based on CO₂ concentrations and temperature anomalies. Using Python for data processing and visualization, we gain insights into climate change patterns.
+This project analyzes the impact of carbon emissions on global temperatures by exploring historical trends, detecting anomalies, and simulating future scenarios based on CO₂ concentrations and temperature anomalies. We gain insights into climate change patterns using Python for data processing and visualization.
 
 ---
 
@@ -59,7 +59,7 @@ The dataset used in this project consists of:
 ---
 
 ## ✅ Conclusion
-This project demonstrates the strong impact of **carbon emissions on climate change**. The findings can be used to inform **climate policies** and encourage the adoption of **emission-reduction strategies**.  
+This project demonstrates the strong impact of carbon emissions on climate change. The findings can inform climate policies and encourage the adoption of emission-reduction strategies.  
 
 Future work could enhance the analysis by incorporating additional environmental factors, such as **methane emissions** and **deforestation rates**.
 
@@ -75,32 +75,32 @@ Future work could enhance the analysis by incorporating additional environmental
 ## 📊 Sample Visualization
 <p align="center">
   <h2> Time-series of Temperature Change and CO₂ Concentrations </h2>
-  <img src="visualizations/Time-series of Temperature Change and CO₂ Concentrations.png" width="600">
+  <img src="visualizations/Time-series of Temperature Change and CO₂ Concentrations_20250314_031705.png" width="600">
 </p>
 ---
 <p align="center">
   <h2> Correlation Heatmap </h2>
-  <img src="visualizations/Correlation Heatmap.png" width="600">
+  <img src="visualizations/Correlation Heatmap_20250314_031938.png" width="600">
 </p>
 ---
 <p align="center">
   <h2> Temperature Change vs CO₂ Concentration </h2>
-  <img src="visualizations/Temperature Change vs CO₂ Concentration.png" width="600">
+  <img src="visualizations/Temperature Change vs CO₂ Concentration_20250314_032148.png" width="600">
 </p>
 ---
 <p align="center">
   <h2> Trends in Temperature Change and CO₂ Concentrations </h2>
-  <img src="visualizations/Trends in Temperature Change and CO₂ Concentrations.png" width="600">
+  <img src="visualizations/Trends in Temperature Change and CO₂ Concentrations_20250314_032326.png" width="600">
 </p>
 ---
 <p align="center">
   <h2> Seasonal Variations in CO₂ Concentrations </h2>
-  <img src="visualizations/Seasonal Variations in CO₂ Concentrations.png" width="600">
+  <img src="visualizations/Seasonal Variations in CO₂ Concentrations_20250314_032451.png" width="600">
 </p>
 ---
 <p align="center">
   <h2> Clustering of Years Based on Climate Patterns </h2>
-  <img src="visualizations/Clustering of Years Based on Climate Patterns.png" width="600">
+  <img src="visualizations/Clustering of Years Based on Climate Patterns_20250314_032630.png" width="600">
 </p>
 
 ## 📜
