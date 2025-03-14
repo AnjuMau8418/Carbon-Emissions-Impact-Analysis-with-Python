@@ -76,6 +76,7 @@ Future work could enhance the analysis by incorporating additional environmental
 <p align="center">
   <h2> Time-series of Temperature Change and CO₂ Concentrations </h2>
   <img src="visualizations/Time-series of Temperature Change and CO₂ Concentrations_20250314_031705.png" width="600">
+  <p>The time-series graph shows a consistent increase in CO₂ concentrations (measured in ppm) over the years, which indicates the accumulation of greenhouse gases in the atmosphere. Simultaneously, a slight upward trend in global temperature change suggests that rising CO₂ levels are associated with global warming.</p>
 </p>
 ---
 <p align="center">
